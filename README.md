@@ -2,7 +2,8 @@
 
 
 <h1 align="center">Hi 👋, I'm Mahesh Shrikrishna Kadam</h1>
-<h3 align="center">A Passionate NEXT JS Developer from India</h3>
+<h3 align="center">A Passionate Software Developer with experience of 2+ years.. </h3>
+
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=3maheshkadam&label=Profile%20views&color=0e75b6&style=flat" alt="3maheshkadam" /> 
 </p>
@@ -11,9 +12,9 @@
     <img src="https://github-profile-trophy.vercel.app/?username=3maheshkadam" alt="3maheshkadam" />
   </a>
 </p>
-🔭 I’m currently learning Python SQL
+🔭 I’m currently learning JAVA DSA...
 
-🌱 I’m also exploring devops concepts
+🌱 I’m intrested in building SAAS Based multi tenants..
 
 👨‍💻 All of my projects are available at https://portfollio-five-bay.vercel.app/
 
