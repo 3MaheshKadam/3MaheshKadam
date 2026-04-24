@@ -94,9 +94,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=3maheshkadam&theme=tokyonight&hide_border=true" alt="streak stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=3maheshkadam&theme=tokyonight&no-bg=true&no-frame=true&column=7&margin-w=10" alt="trophies" />
-</p>
 
 ---
 
