@@ -95,6 +95,7 @@
 </p>
 
 
+
 ---
 
 ### 🗺️ My Journey
@@ -128,19 +129,35 @@ flowchart LR
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=3maheshkadam&bg_color=0d1117&color=38bdf8&line=0ea5e9&point=f1f5f9&area=true&hide_border=true" alt="contribution graph" />
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/3maheshkadam/3maheshkadam/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/3maheshkadam/3maheshkadam/output/github-snake.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/3maheshkadam/3maheshkadam/output/github-snake.svg" />
+  </picture>
+</p>
+
+<sub align="center">🐍 The snake eats my contribution squares — auto-regenerated every 12 hours</sub>
+
 ---
 
 ### 🤝 Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/mahesh-kadam3/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="https://leetcode.com/u/33333_/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
+  &nbsp;
   <a href="mailto:maheshkadam9298@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" height="30" width="40" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://portfollio-five-bay.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
