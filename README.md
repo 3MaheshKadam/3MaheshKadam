@@ -139,7 +139,7 @@ flowchart LR
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/3MaheshKadam/1-model-regression-detection-system/pull/1) in [3MaheshKadam/1-model-regression-detection-system](https://github.com/3MaheshKadam/1-model-regression-detection-system)
+1. 🎉 Merged PR [#2](https://github.com/3MaheshKadam/1-model-regression-detection-system/pull/2) in [3MaheshKadam/1-model-regression-detection-system](https://github.com/3MaheshKadam/1-model-regression-detection-system)
 <!--END_SECTION:activity-->
 
 <p align="center">
