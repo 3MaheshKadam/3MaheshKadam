@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=3maheshkadam&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://hits.sh/github.com/3MaheshKadam/3MaheshKadam.svg?style=flat&label=Profile%20views&color=0e75b6" alt="profile views" />
   <a href="https://linkedin.com/in/mahesh-kadam3/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -143,7 +143,7 @@ flowchart LR
 <!--END_SECTION:activity-->
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=3maheshkadam&bg_color=0d1117&color=38bdf8&line=0ea5e9&point=f1f5f9&area=true&hide_border=true" alt="contribution graph" />
+  <img src="https://ghchart.rshah.org/38bdf8/3MaheshKadam" alt="contribution graph" />
 </p>
 
 <p align="center">
