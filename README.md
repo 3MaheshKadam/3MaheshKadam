@@ -102,11 +102,6 @@ Tests LLM prompts the way you test code. A hand-curated golden dataset of 62 tes
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=3maheshkadam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3maheshkadam&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=java" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=3maheshkadam&theme=tokyonight&hide_border=true" alt="streak stats" />
 </p>
 
