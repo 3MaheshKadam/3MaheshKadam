@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Senior+Software+Developer+%7C+2%2B+years+of+experience;Moving+into+AI+%2F+ML+%2F+Data;Building+LLM+evaluation+%26+CI+tooling+in+Python" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Senior+Software+Developer+%7C+2%2B+years+of+experience;Building+with+LLMs+%26+Gen+AI;Building+LLM+evaluation+%26+CI+tooling+in+Python" alt="Typing SVG" />
   </a>
 </p>
 
@@ -26,7 +26,7 @@
 
 ### 👨‍💻 About Me
 
-- 🤖 &nbsp;Currently focused on **AI, ML & Data** — building with **LLMs in Python**
+- 🤖 &nbsp;Currently focused on **LLMs & Gen AI** — building with **Python**
 - 🧪 &nbsp;Building a **CI-style regression testing system for LLM prompts** (golden dataset, LLM-as-judge scoring, GitHub Actions)
 - 🧩 &nbsp;Practising **data structures & algorithms** in Python
 - 🏗️ &nbsp;Background: 2+ years building **multi-tenant SaaS platforms**, **React Native apps** and **Next.js web apps**
@@ -60,7 +60,7 @@ Tests LLM prompts the way you test code. A hand-curated golden dataset of 62 tes
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
-**AI, ML & Data**
+**Python & AI**
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -83,11 +83,6 @@ Tests LLM prompts the way you test code. A hand-curated golden dataset of 62 tes
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
-**🎯 Learning next**
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
 
 **Previous work: Web & Mobile**
@@ -125,7 +120,7 @@ flowchart LR
     A([🎓 CS Fundamentals]) --> B([💻 Full-Stack Web & Mobile<br/><i>2+ years</i>])
     B --> C([🐍 Python & Data Analysis])
     C --> D([🧪 LLM Evaluation & CI<br/><i>you are here</i>])
-    D --> E([🤖 ML / Applied AI])
+    D --> E([🤖 Gen AI Applications])
 
     style D fill:#0ea5e9,stroke:#38bdf8,stroke-width:3px,color:#fff
     style E fill:#1e293b,stroke:#38bdf8,stroke-dasharray:5 5,color:#f1f5f9
