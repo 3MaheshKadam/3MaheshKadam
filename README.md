@@ -129,7 +129,7 @@ flowchart LR
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#33](https://github.com/3MaheshKadam/incident-investigator/pull/33) in [3MaheshKadam/incident-investigator](https://github.com/3MaheshKadam/incident-investigator)
+1. 🎉 Merged PR [#35](https://github.com/3MaheshKadam/incident-investigator/pull/35) in [3MaheshKadam/incident-investigator](https://github.com/3MaheshKadam/incident-investigator)
 <!--END_SECTION:activity-->
 
 <p align="center">
